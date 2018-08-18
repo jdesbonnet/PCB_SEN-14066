@@ -14,4 +14,5 @@ https://oshpark.com/shared_projects/R4Yin0K0
 
 ![PCB bottom](./doc/pcb_bottom.png)
 
+![schematic](./doc/schematic.png)
 
